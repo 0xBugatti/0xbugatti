@@ -3,7 +3,7 @@
 ![ME](me2.png)
 
 ## Resume
-### Computer Science student, Computer Science@Alexandria UniversityAlexandria University
+### Cyber Secrity  student@Computer Science Alexandria University
 - Learning Basics of Computer Science ,Take a general overview on Cyber Security Different Fields on Specific Modules and Subjects for every field such as (Secure Coding, Secured Software Design ,Mobile Application Security ,Web Application Security ,Network (LAN-WAN) Security ,IOT Security and Operating System Security)  
 - go through the latest techniques used to implement applications used by developers and system designers nowadays such as (on-cloud applications ,servers and databases ,APIs Communications, SAAS and PAAS ...etc) 
 - learning how to secure it and its miscommunications and vulnerabilities
