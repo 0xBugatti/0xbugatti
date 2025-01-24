@@ -68,7 +68,7 @@ I bring a wealth of experience from my tenure as an Incident Response (IR) Team 
 [![Microsoft ATP](https://img.shields.io/badge/Microsoft_ATP-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/security/business)
 [![SentinelOne](https://img.shields.io/badge/SentinelOne-222222?logo=sentinelone&logoColor=white&style=for-the-badge)](https://www.sentinelone.com/)
 [![Carbon Black](https://img.shields.io/badge/Carbon_Black-000000?logo=carbonblack&logoColor=white&style=for-the-badge)](https://www.carbonblack.com/)
-[![Cisco AMP EDR](https://img.shields.io/badge/Cisco_AMP_EDR-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)](https://www.cisco.com/)
+[![Cisco AMP EDR](https://img.shields.io/badge/Cisco_AMP_EDR-80880?logo=cisco&logoColor=white&style=for-the-badge)](https://www.cisco.com/)
 [![Symantec](https://img.shields.io/badge/Symantec-0066CC?logo=symantec&logoColor=white&style=for-the-badge)](https://www.symantec.com/)
 [![Trend Micro](https://img.shields.io/badge/Trend_Micro-FF6600?logo=trendmicro&logoColor=white&style=for-the-badge)](https://www.trendmicro.com/)
 ### SEIM
@@ -90,4 +90,4 @@ Beyond technical capabilities, I am a solution-oriented professional with a keen
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/0xBugatti/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-nasr-ab5619216/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/0xBugatti/)
-[![blog]](https://0xBugatti.io/)
+[![blog](https://img.shields.io/badge/BLOG-?logo=medium&logoColor=white&style=for-the-badge)](https://0xBugatti.io/)
