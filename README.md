@@ -89,7 +89,8 @@ Additionally, I boast in-depth knowledge of Antivirus Evasion Techniques.My skil
 Beyond technical capabilities, I am a solution-oriented professional with a keen eye for emerging threats. Eager to bring my extensive knowledge and hands-on experience to a dynamic team, I am committed to contributing to the development and implementation of robust security measures. Together, let's fortify systems against evolving cyber threats and create a secure digital future
 
 ## Links
-[![blog](https://img.shields.io/badge/BLOG-E11E23?logo=medium&logoColor=white&style=for-the-badge)](https://0xBugatti.io/)
+[![Medium](https://img.shields.io/badge/Medium-FFFFFF?logo=medium&logoColor=black&style=for-the-badge)](https://medium.com/@0xbugatti/)
+[![blog](https://img.shields.io/badge/BLOG-E11E23?logoColor=white&style=for-the-badge)](https://0xbugatti.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/0xBugatti/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-nasr-ab5619216/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/0xBugatti/)
+[![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/0xBugatti/)
