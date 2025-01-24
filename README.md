@@ -4,10 +4,13 @@
 
 ## Resume
 ### Cyber Secrity  student@Computer Science Alexandria University
+
 - Learning Basics of Computer Science ,Take a general overview on Cyber Security Different Fields on Specific Modules and Subjects for every field such as (Secure Coding, Secured Software Design ,Mobile Application Security ,Web Application Security ,Network (LAN-WAN) Security ,IOT Security and Operating System Security)  
 - go through the latest techniques used to implement applications used by developers and system designers nowadays such as (on-cloud applications ,servers and databases ,APIs Communications, SAAS and PAAS ...etc) 
 - learning how to secure it and its miscommunications and vulnerabilities
 - Learning Basics of Data Science Tools to be able to do Integration between Securing Systems and Data Science and that can be Used in several Projects such as (Malware Analysis , Bug Bounty Enumeration , CVEs Mitigations and Dark web Monitoring)
+
+  
 ### Incident response team member @ Coordinatesme ,UAE
 
 I bring a wealth of experience from my tenure as an Incident Response (IR) Team member at Coordinates ME one of the leading Companies that supply Detection and response management service in GULF where I honed my skills on 
@@ -86,8 +89,7 @@ Additionally, I boast in-depth knowledge of Antivirus Evasion Techniques.My skil
 Beyond technical capabilities, I am a solution-oriented professional with a keen eye for emerging threats. Eager to bring my extensive knowledge and hands-on experience to a dynamic team, I am committed to contributing to the development and implementation of robust security measures. Together, let's fortify systems against evolving cyber threats and create a secure digital future
 
 ## Links
-
+[![blog](https://img.shields.io/badge/BLOG-0fffff?logo=medium&logoColor=white&style=for-the-badge)](https://0xBugatti.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/0xBugatti/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-nasr-ab5619216/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/0xBugatti/)
-[![blog](https://img.shields.io/badge/BLOG-0fffff?logo=medium&logoColor=white&style=for-the-badge)](https://0xBugatti.io/)
