@@ -90,4 +90,4 @@ Beyond technical capabilities, I am a solution-oriented professional with a keen
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/0xBugatti/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-nasr-ab5619216/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/0xBugatti/)
-[![blog](https://blog.0xbugatti.com/~gitbook/image?url=https:%2F%2F2250744831-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MjKK2ZWBRbJae5uSLl6%252Ficon%252F8D7PkGA4njsv8zabVm0m%252Flogo.jpg%3Falt=media%26token=1f6fd72e-89c4-4347-a852-dbc24be1cf9f&width=32&dpr=2&quality=100&sign=a7f81428c2c7a9dcded87a659536d1d56e50dcd15325471cbe0d647e90fb5013)](https://0xBugatti.com/)
+[![blog](https://0xbugatti.io/favicon.png)](https://0xBugatti.io/)
