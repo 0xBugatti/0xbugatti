@@ -1,6 +1,5 @@
 # Hi from 0xbugatti
 
-![ME](me2.png)
 
 ## Resume
 ### Cyber Secrity  student@Computer Science Alexandria University
