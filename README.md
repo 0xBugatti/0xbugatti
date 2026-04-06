@@ -3,11 +3,11 @@
 </div>
 <br>
 
-## 🎯 Focus Areas
+## Focus Areas
 
 <table width="100%" cellspacing="4" cellpadding="8">
   <tr>
-    <td align="left" valign="middle" width="180"><b>🛡️ EDR & Defense</b></td>
+    <td align="left" valign="middle" width="180"><b>EDR & Defense</b></td>
     <td valign="middle">
       <img src="assets/crowdstrike.png" width="28" alt="CrowdStrike">&nbsp;&nbsp;
       <img src="assets/s1.png" width="28" alt="SentinelOne">&nbsp;&nbsp;
@@ -23,7 +23,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>📡 SIEM & Monitoring</b></td>
+    <td align="left" valign="middle"><b>SIEM & Monitoring</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/splunk/65A6BF" width="28" alt="Splunk">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="28" alt="Elastic">&nbsp;&nbsp;
@@ -34,21 +34,21 @@
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>🔬 Reverse Engineering</b></td>
+    <td align="left" valign="middle"><b>Reverse Engineering</b></td>
     <td valign="middle">
-      <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="28" alt="Wireshark">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/radareorg/radare2/master/doc/images/rlogo256.png" width="28" alt="Radare2">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/icon.svg" width="28" alt="ImHex">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/VirusTotal/yara/master/extra/logo.svg" width="28" alt="YARA">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/gchq/CyberChef/master/src/web/static/images/logo/cyberchef.svg" width="28" alt="CyberChef">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/virustotal/394EFF" width="28" alt="VirusTotal">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon64.png" width="28" alt="Ghidra">&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-IDA_Pro-800000?style=flat&logo=hexrays&logoColor=white" height="24" alt="IDA Pro">&nbsp;&nbsp;
+      <img src="https://hex-rays.com/hubfs/Ico-logo.png" width="28" alt="IDA Pro">&nbsp;&nbsp;
       <img src="https://frida.re/favicon.ico" width="28" alt="Frida">
     </td>
   </tr>
+  <!--
   <tr>
-    <td align="left" valign="middle"><b>🔍 Recon & Enumeration</b></td>
+    <td align="left" valign="middle"><b>Recon & Enumeration</b></td>
     <td valign="middle">
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="28" alt="Nmap">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/dev/static/nuclei-logo.png" width="28" alt="Nuclei">&nbsp;&nbsp;
@@ -59,7 +59,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>🌐 Web Exploitation</b></td>
+    <td align="left" valign="middle"><b>Web Exploitation</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="28" alt="Burp Suite">&nbsp;&nbsp;
       <img src="https://www.sqlmap.org/favicon.ico" width="28" alt="SQLMap">&nbsp;&nbsp;
@@ -69,17 +69,20 @@
       <img src="https://cdn.simpleicons.org/owasp/000000" width="28" alt="OWASP">
     </td>
   </tr>
+  -->
   <tr>
-    <td align="left" valign="middle"><b>⚔️ Exploitation & C2</b></td>
+    <td align="left" valign="middle"><b>Exploitation & C2</b></td>
     <td valign="middle">
       <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/assets/images/metasploit-logo-dark-external-use.svg" width="28" alt="Metasploit">&nbsp;&nbsp;
       <img src="assets/cobalt-strike.png" width="40" alt="Cobalt Strike">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/HavocFramework/Havoc/main/client/data/img/HavocImages/Icon.ico" width="28" alt="Havoc">&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/cobbr/Covenant/master/Covenant/wwwroot/images/favicon.svg" width="28" alt="Covenant">
+      <img src="https://raw.githubusercontent.com/cobbr/Covenant/master/Covenant/wwwroot/images/favicon.svg" width="28" alt="Covenant">&nbsp;&nbsp;
+      <img src="https://user-images.githubusercontent.com/20302208/208271792-91973457-2d6c-4080-8625-0f9eebed0a82.png" width="28" alt="PowerShell Empire">&nbsp;&nbsp;
+      <img src="https://assets.bishopfox.com/prod-1437/Images/pages/labs/Sliver-Purple.jpg" width="28" alt="Sliver">
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>🔓 Post-Exploitation</b></td>
+    <td align="left" valign="middle"><b>Post-Exploitation</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/hashcat/FF4700" width="28" alt="Hashcat">&nbsp;&nbsp;
       <img src="https://www.openwall.com/favicon.ico" width="28" alt="John the Ripper">&nbsp;&nbsp;
@@ -93,7 +96,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>💻 Platforms</b></td>
+    <td align="left" valign="middle"><b>Platforms</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="28" alt="Kali Linux">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/parrotsecurity/15EDFF" width="28" alt="Parrot OS">&nbsp;&nbsp;
@@ -104,15 +107,33 @@
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>🐍 Languages</b></td>
+    <td align="left" valign="middle"><b>MalDev</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,bash,go,js,nodejs,php,c,cpp,cs,java,ps,powershell&theme=dark" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,go&theme=dark" alt="MalDev">
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>🔧 Dev Tools</b></td>
+    <td align="left" valign="middle"><b>FrontEnd</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,vscode&theme=dark" alt="Dev Tools">
+      <img src="https://skillicons.dev/icons?i=js,html,css,nodejs&theme=dark" alt="FrontEnd">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>BackEnd</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=python,go,java,php,nodejs,mysql,mongodb&theme=dark" alt="BackEnd">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>Tooling</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=bash,powershell,regex&theme=dark" alt="Tooling">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>DevOps</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions,linux,git,github,vscode&theme=dark" alt="DevOps">
     </td>
   </tr>
 </table>
@@ -142,7 +163,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -185,7 +206,7 @@
 
 ---
 
-## 📊 Activity
+## Activity
 
 <table width="100%">
   <tr>
@@ -204,7 +225,7 @@
 
 <div align="center">
 
-## 🌐 Connect
+## Connect
 
 <a href="https://0xbugatti.io"><img src="https://avatars.githubusercontent.com/u/110223394?v=4" width="32" style="border-radius:50%" alt="Blog"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/0xBugatti"><img src="https://cdn.simpleicons.org/github/f0f6fc" width="32" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
