@@ -124,7 +124,8 @@
 <img src="https://raw.githubusercontent.com/VirusTotal/yara/master/extra/logo.svg" width="32" alt="YARA">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/gchq/CyberChef/master/src/web/static/images/logo/cyberchef.svg" width="32" alt="CyberChef">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/virustotal/394EFF" width="32" alt="VirusTotal">&nbsp;&nbsp;&nbsp;
-<img src="https://ghidra-sre.org/favicon.ico" width="32" alt="Ghidra">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon64.png" width="32" alt="Ghidra">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-IDA_Pro-800000?style=flat&logo=hexrays&logoColor=white" height="28" alt="IDA Pro">&nbsp;&nbsp;&nbsp;
 <img src="https://frida.re/favicon.ico" width="32" alt="Frida">
 
 </div>
