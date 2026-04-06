@@ -140,14 +140,22 @@
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="32" alt="Burp Suite">&nbsp;&nbsp;&nbsp;
 <img src="https://nmap.org/images/nmap-logo-256x256.png" width="32" alt="Nmap">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/hashcat/FF4700" width="32" alt="Hashcat">&nbsp;&nbsp;&nbsp;
-<img src="assets/cobalt-strike.png" width="32" alt="Cobalt Strike">&nbsp;&nbsp;&nbsp;
+<img src="assets/cobalt-strike.png" width="48" alt="Cobalt Strike">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/dev/static/nuclei-logo.png" width="32" alt="Nuclei">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/dev/static/subfinder-logo.png" width="32" alt="Subfinder">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/projectdiscovery/httpx/dev/static/httpx-logo.png" width="32" alt="HTTPX">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/projectdiscovery/naabu/main/static/naabu-logo.png" width="32" alt="Naabu">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/projectdiscovery/dnsx/main/static/dnsx-logo.png" width="32" alt="DNSX">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/owasp/000000" width="32" alt="OWASP">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Hackplayers/evil-winrm/master/resources/evil-winrm_logo.png" width="32" alt="Evil-WinRM">&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/hydra.png" width="32" alt="Hydra">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/HavocFramework/Havoc/main/client/data/img/HavocImages/Icon.ico" width="32" alt="Havoc">
+<img src="https://raw.githubusercontent.com/HavocFramework/Havoc/main/client/data/img/HavocImages/Icon.ico" width="32" alt="Havoc">&nbsp;&nbsp;&nbsp;
+<img src="https://www.sqlmap.org/favicon.ico" width="32" alt="SQLMap">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/cobbr/Covenant/master/Covenant/wwwroot/images/favicon.svg" width="32" alt="Covenant">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="32" alt="Kali Linux">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/parrotsecurity/15EDFF" width="32" alt="Parrot OS">&nbsp;&nbsp;&nbsp;
+<img src="https://www.openwall.com/favicon.ico" width="32" alt="John the Ripper">&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/password.png" width="32" alt="Cracking">
 
 </div>
 </details>
