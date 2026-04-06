@@ -73,6 +73,69 @@
 
 ---
 
+## 🛡️ Security Arsenal
+
+<details>
+<summary><b>EDR & Defense</b></summary>
+<br>
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/paloaltonetworks/FF0000" width="32" alt="Palo Alto">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/elastic/005571" width="32" alt="Elastic">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vmware/607078" width="32" alt="Carbon Black">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fortinet/EE3124" width="32" alt="Fortinet">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/trendmicro/D90909" width="32" alt="Trend Micro">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cisco/049FD9" width="32" alt="Cisco">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/symantec/FFD100" width="32" alt="Symantec">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mcafee/C0183C" width="32" alt="McAfee">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kaspersky/006D5C" width="32" alt="Kaspersky">&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/windows-defender.png" width="32" alt="Microsoft Defender">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/blackberry/000000" width="32" alt="Cylance">&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="32" alt="CrowdStrike">
+
+</div>
+</details>
+
+<details>
+<summary><b>Reverse Engineering</b></summary>
+<br>
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="32" alt="Wireshark">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/radareorg/radare2/master/doc/images/rlogo256.png" width="32" alt="Radare2">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/icon.svg" width="32" alt="ImHex">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/VirusTotal/yara/master/extra/logo.svg" width="32" alt="YARA">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gchq/CyberChef/master/src/web/static/images/logo/cyberchef.svg" width="32" alt="CyberChef">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/virustotal/394EFF" width="32" alt="VirusTotal">&nbsp;&nbsp;&nbsp;
+<img src="https://ghidra-sre.org/favicon.ico" width="32" alt="Ghidra">&nbsp;&nbsp;&nbsp;
+<img src="https://frida.re/favicon.ico" width="32" alt="Frida">
+
+</div>
+</details>
+
+<details>
+<summary><b>Offensive Tooling</b></summary>
+<br>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/assets/images/metasploit-logo-dark-external-use.svg" width="32" alt="Metasploit">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="32" alt="Burp Suite">&nbsp;&nbsp;&nbsp;
+<img src="https://nmap.org/images/nmap-logo-256x256.png" width="32" alt="Nmap">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/hashcat/FF4700" width="32" alt="Hashcat">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cobalt/000000" width="32" alt="Cobalt Strike">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/dev/static/nuclei-logo.png" width="32" alt="Nuclei">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/dev/static/subfinder-logo.png" width="32" alt="Subfinder">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/projectdiscovery/httpx/dev/static/httpx-logo.png" width="32" alt="HTTPX">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/owasp/000000" width="32" alt="OWASP">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Hackplayers/evil-winrm/master/resources/evil-winrm_logo.png" width="32" alt="Evil-WinRM">&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/hydra.png" width="32" alt="Hydra">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/HavocFramework/Havoc/main/client/data/img/HavocImages/Icon.ico" width="32" alt="Havoc">
+
+</div>
+</details>
+
+---
+
 ## 🛠️ Tech Stack
 
 [![languages](https://skillicons.dev/icons?i=python,bash,go,js,nodejs,php,c,cpp,cs,java,ps,powershell&theme=dark)](https://skillicons.dev/icons?i=python,bash,go,js,nodejs,php,c,cpp,cs,java,ps,powershell&theme=dark)
