@@ -4,9 +4,13 @@
   <tr>
     <td valign="middle" align="center" width="20%">
       <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=circle&height=100&color=000000&text=👁️%201.2K&fontSize=16&fontColor=ffffff" alt="Views" width="100">
+        <a href="https://github.com/0xBugatti">
+          <img src="https://img.shields.io/badge/👁️-1.2K-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" alt="Views">
+        </a>
         <br><br>
-        <img src="https://capsule-render.vercel.app/api?type=circle&height=100&color=000000&text=👥%20131&fontSize=16&fontColor=ffffff" alt="Followers" width="100">
+        <a href="https://github.com/0xBugatti?tab=followers">
+          <img src="https://img.shields.io/badge/👥-131-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" alt="Followers">
+        </a>
       </div>
     </td>
     <td valign="middle" width="80%">
