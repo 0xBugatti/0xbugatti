@@ -109,7 +109,11 @@
   <tr>
     <td align="left" valign="middle"><b>MalDev</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,go&theme=dark" alt="MalDev">
+      <img src="https://cdn.simpleicons.org/c/FF3333" width="28" alt="C">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/cplusplus/FF3333" width="28" alt="C++">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/csharp/FF3333" width="28" alt="C#">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/powershell/FF3333" width="28" alt="PowerShell">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/vscode/FF3333" width="28" alt="VSCode">
     </td>
   </tr>
   <tr>
@@ -127,13 +131,13 @@
   <tr>
     <td align="left" valign="middle"><b>Tooling</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=bash,powershell,regex&theme=dark" alt="Tooling">
+      <img src="https://skillicons.dev/icons?i=bash,python,go,regex&theme=dark" alt="Tooling">
     </td>
   </tr>
   <tr>
     <td align="left" valign="middle"><b>DevOps</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions,linux,git,github,vscode&theme=dark" alt="DevOps">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions,linux,git,github&theme=dark" alt="DevOps">
     </td>
   </tr>
 </table>
