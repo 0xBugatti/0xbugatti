@@ -2,16 +2,15 @@
 
 <table>
   <tr>
-    <td valign="middle" align="center">
-      <a href="https://github.com/0xBugatti">
-        <img src="https://badgen.net/badge/Views/1.2k?icon=eye&color=000000&labelColor=000000&scale=1.2" alt="Views" style="display: block; margin: 8px auto;">
-      </a>
-      <a href="https://github.com/0xBugatti?tab=followers">
-        <img src="https://badgen.net/github/followers/0xBugatti?icon=github&color=white&labelColor=000000&scale=1.2" alt="Followers" style="display: block; margin: 8px auto;">
-      </a>
+    <td valign="middle" align="center" width="20%">
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=circle&height=100&color=000000&text=👁️%201.2K&fontSize=16&fontColor=ffffff" alt="Views" width="100">
+        <br><br>
+        <img src="https://capsule-render.vercel.app/api?type=circle&height=100&color=000000&text=👥%20131&fontSize=16&fontColor=ffffff" alt="Followers" width="100">
+      </div>
     </td>
-    <td valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xBugatti&theme=github_dark" alt="Profile Stats">
+    <td valign="middle" width="80%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xBugatti&theme=github_dark" width="100%" alt="Profile Stats">
     </td>
   </tr>
 </table>
