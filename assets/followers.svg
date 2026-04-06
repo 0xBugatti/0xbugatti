@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f3460"/>
+      <stop offset="50%" style="stop-color:#533483"/>
+      <stop offset="100%" style="stop-color:#e94560"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="none" stroke="url(#ring)" stroke-width="3" filter="url(#glow)"/>
+  <circle cx="60" cy="60" r="48" fill="#0d1117"/>
+  <text x="60" y="42" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="10" font-weight="bold" letter-spacing="3">FOLLOWERS</text>
+  <text x="60" y="70" text-anchor="middle" fill="#ffffff" font-family="Arial Black, sans-serif" font-size="28" font-weight="900">131</text>
+</svg>
