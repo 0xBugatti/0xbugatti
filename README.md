@@ -85,11 +85,13 @@
 <img src="assets/cortex.png" width="32" alt="Cortex XDR">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/paloaltonetworks/FF0000" width="32" alt="Palo Alto">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vmware/607078" width="32" alt="Carbon Black">&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/windows-defender.png" width="32" alt="Microsoft Defender">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/trendmicro/D90909" width="32" alt="Trend Micro">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cisco/049FD9" width="32" alt="Cisco">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/symantec/FFD100" width="32" alt="Symantec">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mcafee/C0183C" width="32" alt="McAfee">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kaspersky/006D5C" width="32" alt="Kaspersky">
+<img src="https://cdn.simpleicons.org/kaspersky/006D5C" width="32" alt="Kaspersky">&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/windows-defender.png" width="32" alt="Microsoft Defender">
 
 </div>
 </details>
@@ -103,13 +105,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32" alt="Elastic">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="32" alt="Fortinet">&nbsp;&nbsp;&nbsp;
 <img src="assets/logrhythm-logo.png" width="32" alt="LogRhythm">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/datadog/632CA6" width="32" alt="Datadog">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/grafana/F46800" width="32" alt="Grafana">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kibana/005571" width="32" alt="Kibana">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/logstash/005571" width="32" alt="Logstash">&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/ibm.png" width="32" alt="IBM QRadar">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="32" alt="Azure Sentinel">&nbsp;&nbsp;&nbsp;
-<img src="assets/rb.jpeg" width="32" alt="Redblue">
+<img src="assets/sentinel.jpeg" width="32" alt="Azure Sentinel">
 
 </div>
 </details>
