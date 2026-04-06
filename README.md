@@ -81,7 +81,7 @@
 <div align="center">
 
 <img src="https://cdn.simpleicons.org/paloaltonetworks/FF0000" width="32" alt="Palo Alto">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/elastic/005571" width="32" alt="Elastic">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32" alt="Elastic">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vmware/607078" width="32" alt="Carbon Black">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="32" alt="Fortinet">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/trendmicro/D90909" width="32" alt="Trend Micro">&nbsp;&nbsp;&nbsp;
@@ -92,6 +92,23 @@
 <img src="https://img.icons8.com/color/48/windows-defender.png" width="32" alt="Microsoft Defender">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/blackberry/000000" width="32" alt="Cylance">&nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="32" alt="CrowdStrike">
+
+</div>
+</details>
+
+<details>
+<summary><b>SIEM & Monitoring</b></summary>
+<br>
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/splunk/65A6BF" width="32" alt="Splunk">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/datadog/632CA6" width="32" alt="Datadog">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana/F46800" width="32" alt="Grafana">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/elastic/005571" width="32" alt="Elastic SIEM">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kibana/005571" width="32" alt="Kibana">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/logstash/005571" width="32" alt="Logstash">&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/ibm.png" width="32" alt="IBM QRadar">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="32" alt="Azure Sentinel">
 
 </div>
 </details>
