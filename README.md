@@ -28,15 +28,31 @@
 
 </div>
 
-[![top langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xBugatti&layout=compact&theme=dark&hide_border=true&title_color=533483&text_color=ffffff&langs_count=8)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xBugatti&layout=compact&theme=dark&hide_border=true&title_color=533483&text_color=ffffff&langs_count=8)
-
 ---
 
 ## 🚀 Featured Projects
 
- [![400OK](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=400OK&theme=dark&hide_border=true&title_color=533483&icon_color=0f3460&text_color=ffffff)](https://github.com/0xBugatti/400OK)[![AwesomeNmap](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=AwesomeNmap&theme=dark&hide_border=true&title_color=533483&icon_color=0f3460&text_color=ffffff)](https://github.com/0xBugatti/AwesomeNmap)
-
- [![SECDevSEC](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=SECDevSEC&theme=dark&hide_border=true&title_color=533483&icon_color=0f3460&text_color=ffffff)](https://github.com/0xBugatti/SECDevSEC)[![MonMon](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=MonMon&theme=dark&hide_border=true&title_color=533483&icon_color=0f3460&text_color=ffffff)](https://github.com/0xBugatti/MonMon)
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/0xBugatti/400OK">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=400OK&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&bg_color=0d1117" width="280">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xBugatti/AwesomeNmap">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=AwesomeNmap&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&bg_color=0d1117" width="280">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xBugatti/SECDevSEC">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=SECDevSEC&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&bg_color=0d1117" width="280">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
