@@ -108,11 +108,11 @@
   <tr>
     <td align="left" valign="middle"><b>MalDev</b></td>
     <td valign="middle">
-      <img src="https://cdn.simpleicons.org/c/FF3333" width="28" alt="C">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/cplusplus/FF3333" width="28" alt="C++">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/csharp/FF3333" width="28" alt="C#">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/powershell/FF3333" width="28" alt="PowerShell">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/vscode/FF3333" width="28" alt="VSCode">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" alt="C">&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" alt="C++">&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" alt="C#">&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="28" alt="PowerShell">&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" alt="VSCode">
     </td>
   </tr>
   <tr>
