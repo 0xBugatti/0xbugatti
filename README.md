@@ -1,9 +1,19 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=200&section=header&text=0xbugatti&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20|%20Tool%20Builder&descAlignY=60&descAlign=50)](https://github.com/0xBugatti)
 
-[![views](https://komarev.com/ghpvc/?username=0xBugatti&color=0f3460&style=for-the-badge&label=PROFILE+VIEWS)](https://komarev.com/ghpvc/?username=0xBugatti&color=0f3460&style=for-the-badge&label=PROFILE+VIEWS)  
-[![followers](https://img.shields.io/github/followers/0xBugatti?style=for-the-badge&color=533483&label=FOLLOWERS)](https://img.shields.io/github/followers/0xBugatti?style=for-the-badge&color=533483&label=FOLLOWERS)
-
-[![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xBugatti&theme=github_dark)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xBugatti&theme=github_dark)
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/👁️_VIEWS-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" alt="Views"><br>
+      <img src="https://komarev.com/ghpvc/?username=0xBugatti&color=ffffff&style=flat-square&label=" alt="View Count">
+      <br><br>
+      <img src="https://img.shields.io/badge/👥_FOLLOWERS-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" alt="Followers"><br>
+      <img src="https://img.shields.io/github/followers/0xBugatti?style=flat-square&labelColor=000000&color=ffffff" alt="Follower Count">
+    </td>
+    <td width="75%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xBugatti&theme=github_dark" width="100%" alt="Profile Stats">
+    </td>
+  </tr>
+</table>
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBugatti&layout=compact&theme=dark&hide_border=true&title_color=533483&text_color=ffffff&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBugatti&layout=compact&theme=dark&hide_border=true&title_color=533483&text_color=ffffff&langs_count=8)
 
