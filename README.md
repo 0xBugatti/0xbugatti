@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=300&section=header&text=%E2%9A%A1%20%400xBugatti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Penetration%20Tester%20%7C%20Offensive%20Developer&descAlignY=52&descAlign=50&descSize=18" alt="header" width="100%">
 </div>
-
-
-<br><br><br>
+<br>
 
 ## 🎯 Focus Areas
 
