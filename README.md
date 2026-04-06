@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=200&section=header&text=@0xbugatti&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Consultant&descAlignY=60&descAlign=50" alt="header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=250&section=header&text=@0xbugatti&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Consultant&descAlignY=60&descAlign=50" alt="header" width="100%">
+  <img src="https://raw.githubusercontent.com/0xBugatti/0xbugatti/main/logo.png" alt="Logo" align="left" style="margin-top: -220px; margin-left: 30px;">
 </div>
+
+<br><br><br>
 
 <div align="center">
 
