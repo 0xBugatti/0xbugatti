@@ -5,11 +5,11 @@
     <td valign="middle" align="center" width="20%">
       <div align="center">
         <a href="https://github.com/0xBugatti">
-          <img src="https://img.shields.io/badge/👁️-1.2K-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" alt="Views">
+          <img src="https://raw.githubusercontent.com/0xBugatti/0xbugatti/main/views.svg" alt="Views" width="120">
         </a>
         <br><br>
         <a href="https://github.com/0xBugatti?tab=followers">
-          <img src="https://img.shields.io/badge/👥-131-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" alt="Followers">
+          <img src="https://raw.githubusercontent.com/0xBugatti/0xbugatti/main/followers.svg" alt="Followers" width="120">
         </a>
       </div>
     </td>
