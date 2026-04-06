@@ -5,7 +5,7 @@
 
 ## Focus Areas
 
-<table width="100%" cellspacing="4" cellpadding="8">
+<table width="100%" cellspacing="4" cellpadding="8" align="center">
   <tr>
     <td align="left" valign="middle" width="180"><b>EDR & Defense</b></td>
     <td valign="middle">
@@ -112,7 +112,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" alt="C++">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" alt="C#">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="28" alt="PowerShell">&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" alt="VSCode">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" alt="VSCode">&nbsp;&nbsp;
+      <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="28" alt="VSCode Purple">
     </td>
   </tr>
   <tr>
@@ -166,7 +167,11 @@
 
 ---
 
+<div align="center">
+
 ## Featured Projects
+
+</div>
 
 <div align="center">
 <table>
@@ -209,7 +214,11 @@
 
 ---
 
+<div align="center">
+
 ## Activity
+
+</div>
 
 <table width="100%">
   <tr>
