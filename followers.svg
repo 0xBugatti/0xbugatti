@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
   <circle cx="60" cy="60" r="58" fill="#000000" stroke="#ffffff" stroke-width="2"/>
-  <text x="60" y="50" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="32" font-weight="bold">👥</text>
-  <text x="60" y="78" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" font-weight="bold">131</text>
+  <g fill="#ffffff">
+    <circle cx="50" cy="38" r="8"/>
+    <path d="M 35 65 Q 35 48 50 48 Q 65 48 65 65 Z"/>
+    <circle cx="70" cy="42" r="6"/>
+    <path d="M 58 66 Q 58 52 70 52 Q 82 52 82 66 Z"/>
+  </g>
+  <text x="60" y="100" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">131</text>
 </svg>
