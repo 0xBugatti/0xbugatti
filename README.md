@@ -90,8 +90,7 @@
 <img src="https://cdn.simpleicons.org/cisco/049FD9" width="32" alt="Cisco">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/symantec/FFD100" width="32" alt="Symantec">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mcafee/C0183C" width="32" alt="McAfee">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kaspersky/006D5C" width="32" alt="Kaspersky">&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/windows-defender.png" width="32" alt="Microsoft Defender">
+<img src="https://cdn.simpleicons.org/kaspersky/006D5C" width="32" alt="Kaspersky">
 
 </div>
 </details>
