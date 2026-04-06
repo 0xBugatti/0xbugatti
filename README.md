@@ -1,4 +1,11 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=200&section=header&text=0xbugatti&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20|%20Tool%20Builder&descAlignY=60&descAlign=50)](https://github.com/0xBugatti)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=200&section=header&text=@0xbugatti&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Consultant&descAlignY=60&descAlign=50" alt="header" width="100%">
+  <div align="left">
+    <img src="https://raw.githubusercontent.com/0xBugatti/0xbugatti/main/logo.svg" alt="Logo" width="150" align="left" style="margin-top: -180px; margin-left: 20px;">
+  </div>
+</div>
+
+<br><br>
 
 <div align="center">
 
