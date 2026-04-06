@@ -51,6 +51,23 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/0xBugatti/oscpdb">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=oscpdb&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&bg_color=0d1117" width="280">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xBugatti/myAwesome">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=myAwesome&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&bg_color=0d1117" width="280">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xBugatti/PentestOPS">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xBugatti&repo=PentestOPS&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&bg_color=0d1117" width="280">
+      </a>
+    </td>
+  </tr>
 </table>
 </div>
 
