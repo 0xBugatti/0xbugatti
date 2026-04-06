@@ -12,7 +12,7 @@
     <td valign="middle" align="center" width="20%">
       <div align="center">
         <a href="https://github.com/0xBugatti">
-          <img src="https://komarev.com/ghpvc/?username=0xBugatti&style=for-the-badge&color=0d1117&label=VIEWS&labelColor=533483" alt="Views">
+          <img src="https://raw.githubusercontent.com/0xBugatti/0xbugatti/main/views.svg" alt="Views" width="120">
         </a>
         <br><br>
         <a href="https://github.com/0xBugatti?tab=followers">
