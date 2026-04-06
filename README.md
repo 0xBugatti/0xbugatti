@@ -112,8 +112,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" alt="C++">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" alt="C#">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="28" alt="PowerShell">&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" alt="VSCode">&nbsp;&nbsp;
-      <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="28" alt="VSCode Purple">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="28" alt="Visual Studio">&nbsp;&nbsp;
+      <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="28" alt="VSCode">
     </td>
   </tr>
   <tr>
