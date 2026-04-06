@@ -18,7 +18,6 @@
       <img src="https://cdn.simpleicons.org/trendmicro/D90909" width="28" alt="Trend Micro">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/cisco/049FD9" width="28" alt="Cisco">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/symantec/FFD100" width="28" alt="Symantec">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/mcafee/C0183C" width="28" alt="McAfee">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/kaspersky/006D5C" width="28" alt="Kaspersky">
     </td>
   </tr>
