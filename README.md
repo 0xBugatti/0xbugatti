@@ -102,11 +102,11 @@
 
 ## 🌐 Connect
 
-<a href="https://0xbugatti.io"><img src="https://img.shields.io/badge/%200xbugatti.io-0d1117?style=for-the-badge&logo=globe&logoColor=58a6ff&labelColor=0d1117&color=0d1117&borderRadius=10" alt="Blog"></a>
-<a href="https://github.com/0xBugatti"><img src="https://img.shields.io/badge/%400xBugatti-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117&color=0d1117" alt="GitHub"></a>
-<a href="https://twitter.com/0xBugatti"><img src="https://img.shields.io/badge/%400xBugatti-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff&labelColor=0d1117&color=0d1117" alt="X"></a>
-<a href="https://medium.com/@0xbugatti"><img src="https://img.shields.io/badge/%400xbugatti-0d1117?style=for-the-badge&logo=medium&logoColor=58a6ff&labelColor=0d1117&color=0d1117" alt="Medium"></a>
-<a href="https://www.linkedin.com/in/mohamed-nasr-ab5619216"><img src="https://img.shields.io/badge/Mohamed%20Nasr-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=0d1117" alt="LinkedIn"></a>
+<a href="https://0xbugatti.io"><img src="https://cdn.simpleicons.org/wordpress/58a6ff" width="28" alt="Blog"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/0xBugatti"><img src="https://cdn.simpleicons.org/github/58a6ff" width="28" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/0xBugatti"><img src="https://cdn.simpleicons.org/x/58a6ff" width="28" alt="X"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@0xbugatti"><img src="https://cdn.simpleicons.org/medium/58a6ff" width="28" alt="Medium"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-nasr-ab5619216"><img src="https://cdn.simpleicons.org/linkedin/58a6ff" width="28" alt="LinkedIn"></a>
 
 <br>
 
