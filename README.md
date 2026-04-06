@@ -3,7 +3,11 @@
 </div>
 <br>
 
+<div align="center">
+
 ## Focus Areas
+
+</div>
 
 <table width="100%" cellspacing="4" cellpadding="8" align="center">
   <tr>
