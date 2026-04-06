@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=300&section=header&text=%F0%9F%90%9B%20%400xBugatti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Offensive%20Security%20Consultant%20%7C%20Bug%20Bounty%20Hunter&descAlignY=52&descAlign=50&descSize=18" alt="header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=300&section=header&text=%F0%9F%90%9B%20%400xBugatti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Offensive%20Developer%20%7C%20Security%20Engineer&descAlignY=52&descAlign=50&descSize=18" alt="header" width="100%">
 </div>
 
 
@@ -102,11 +102,11 @@
 
 ## 🌐 Connect
 
-<a href="https://0xbugatti.io"><img src="https://cdn.simpleicons.org/wordpress/58a6ff" width="28" alt="Blog"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/0xBugatti"><img src="https://cdn.simpleicons.org/github/58a6ff" width="28" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/0xBugatti"><img src="https://cdn.simpleicons.org/x/58a6ff" width="28" alt="X"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@0xbugatti"><img src="https://cdn.simpleicons.org/medium/58a6ff" width="28" alt="Medium"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohamed-nasr-ab5619216"><img src="https://cdn.simpleicons.org/linkedin/58a6ff" width="28" alt="LinkedIn"></a>
+<a href="https://0xbugatti.io"><img src="https://cdn.simpleicons.org/wordpress/21759b" width="32" alt="Blog"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/0xBugatti"><img src="https://cdn.simpleicons.org/github/f0f6fc" width="32" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/0xBugatti"><img src="https://cdn.simpleicons.org/x/ffffff" width="32" alt="X"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@0xbugatti"><img src="https://cdn.simpleicons.org/medium/ffffff" width="32" alt="Medium"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-nasr-ab5619216"><img src="https://cdn.simpleicons.org/linkedin/0a66c2" width="32" alt="LinkedIn"></a>
 
 <br>
 
