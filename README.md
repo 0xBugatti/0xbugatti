@@ -140,7 +140,7 @@
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="32" alt="Burp Suite">&nbsp;&nbsp;&nbsp;
 <img src="https://nmap.org/images/nmap-logo-256x256.png" width="32" alt="Nmap">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/hashcat/FF4700" width="32" alt="Hashcat">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cobalt/000000" width="32" alt="Cobalt Strike">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Cobalt_Strike-FF0000?style=flat&logoColor=white" height="28" alt="Cobalt Strike">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/dev/static/nuclei-logo.png" width="32" alt="Nuclei">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/dev/static/subfinder-logo.png" width="32" alt="Subfinder">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/projectdiscovery/httpx/dev/static/httpx-logo.png" width="32" alt="HTTPX">&nbsp;&nbsp;&nbsp;
