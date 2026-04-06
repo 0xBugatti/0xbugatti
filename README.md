@@ -2,34 +2,13 @@
 
 <table>
   <tr>
-    <td valign="middle">
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/VIEWS-ffffff?style=for-the-badge&logo=eye&logoColor=black&labelColor=000000&color=000000" alt="Views">
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://komarev.com/ghpvc/?username=0xBugatti&color=000000&style=for-the-badge&labelColor=000000" alt="View Count">
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img height="15" src="https://img.shields.io/badge/transparent-000000?style=flat-square&labelColor=000000&color=000000" alt="spacer">
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/FOLLOWERS-ffffff?style=for-the-badge&logo=users&logoColor=black&labelColor=000000&color=000000" alt="Followers">
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/github/followers/0xBugatti?style=for-the-badge&labelColor=000000&color=000000&logoColor=white" alt="Follower Count">
-          </td>
-        </tr>
-      </table>
+    <td valign="middle" align="center">
+      <a href="https://github.com/0xBugatti">
+        <img src="https://badgen.net/badge/Views/1.2k?icon=eye&color=000000&labelColor=000000&scale=1.2" alt="Views" style="display: block; margin: 8px auto;">
+      </a>
+      <a href="https://github.com/0xBugatti?tab=followers">
+        <img src="https://badgen.net/github/followers/0xBugatti?icon=github&color=white&labelColor=000000&scale=1.2" alt="Followers" style="display: block; margin: 8px auto;">
+      </a>
     </td>
     <td valign="middle">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xBugatti&theme=github_dark" alt="Profile Stats">
