@@ -7,7 +7,7 @@
 
 <table width="100%" cellspacing="4" cellpadding="8">
   <tr>
-    <td align="right" valign="middle" width="180"><b>🛡️ EDR & Defense</b></td>
+    <td align="left" valign="middle" width="180"><b>🛡️ EDR & Defense</b></td>
     <td valign="middle">
       <img src="assets/crowdstrike.png" width="28" alt="CrowdStrike">&nbsp;&nbsp;
       <img src="assets/s1.png" width="28" alt="SentinelOne">&nbsp;&nbsp;
@@ -23,7 +23,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>📡 SIEM & Monitoring</b></td>
+    <td align="left" valign="middle"><b>📡 SIEM & Monitoring</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/splunk/65A6BF" width="28" alt="Splunk">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="28" alt="Elastic">&nbsp;&nbsp;
@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>🔬 Reverse Engineering</b></td>
+    <td align="left" valign="middle"><b>🔬 Reverse Engineering</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="28" alt="Wireshark">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/radareorg/radare2/master/doc/images/rlogo256.png" width="28" alt="Radare2">&nbsp;&nbsp;
@@ -48,7 +48,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>🔍 Recon & Enumeration</b></td>
+    <td align="left" valign="middle"><b>🔍 Recon & Enumeration</b></td>
     <td valign="middle">
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="28" alt="Nmap">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/dev/static/nuclei-logo.png" width="28" alt="Nuclei">&nbsp;&nbsp;
@@ -59,7 +59,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>🌐 Web Exploitation</b></td>
+    <td align="left" valign="middle"><b>🌐 Web Exploitation</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="28" alt="Burp Suite">&nbsp;&nbsp;
       <img src="https://www.sqlmap.org/favicon.ico" width="28" alt="SQLMap">&nbsp;&nbsp;
@@ -70,7 +70,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>⚔️ Exploitation & C2</b></td>
+    <td align="left" valign="middle"><b>⚔️ Exploitation & C2</b></td>
     <td valign="middle">
       <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/assets/images/metasploit-logo-dark-external-use.svg" width="28" alt="Metasploit">&nbsp;&nbsp;
       <img src="assets/cobalt-strike.png" width="40" alt="Cobalt Strike">&nbsp;&nbsp;
@@ -79,29 +79,38 @@
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>🔓 Post-Exploitation</b></td>
+    <td align="left" valign="middle"><b>🔓 Post-Exploitation</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/hashcat/FF4700" width="28" alt="Hashcat">&nbsp;&nbsp;
       <img src="https://www.openwall.com/favicon.ico" width="28" alt="John the Ripper">&nbsp;&nbsp;
       <img src="https://img.icons8.com/color/48/hydra.png" width="28" alt="Hydra">&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/Hackplayers/evil-winrm/master/resources/evil-winrm_logo.png" width="28" alt="Evil-WinRM">
+      <img src="https://raw.githubusercontent.com/Hackplayers/evil-winrm/master/resources/evil-winrm_logo.png" width="28" alt="Evil-WinRM">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/SpecterOps/BloodHound/main/cmd/ui/public/img/BHCE_Vertical_RedField.svg" width="28" alt="BloodHound">&nbsp;&nbsp;
+      <img src="https://repository-images.githubusercontent.com/689013903/3d0fa9de-9232-4caa-9a01-a80ebca9dc9c" height="28" alt="NetExec">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/gentilkiwi/mimikatz/master/mimikatz/mimikatz.ico" width="28" alt="Mimikatz">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/peass-ng/PEASS-ng/master/linPEAS/images/peass.png" width="28" alt="PEASS-ng">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="28" alt="Wireshark">
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>💻 Platforms</b></td>
+    <td align="left" valign="middle"><b>💻 Platforms</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="28" alt="Kali Linux">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/parrotsecurity/15EDFF" width="28" alt="Parrot OS">
+      <img src="https://cdn.simpleicons.org/parrotsecurity/15EDFF" width="28" alt="Parrot OS">&nbsp;&nbsp;
+      <img src="https://img.icons8.com/fluency/48/windows-11.png" width="28" alt="Windows 11">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/zorin/15A6F0" width="28" alt="ZorinOS">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/android/3DDC84" width="28" alt="Android">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/apple/ffffff" width="28" alt="macOS">
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>🐍 Languages</b></td>
+    <td align="left" valign="middle"><b>🐍 Languages</b></td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=python,bash,go,js,nodejs,php,c,cpp,cs,java,ps,powershell&theme=dark" alt="Languages">
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>🔧 Dev Tools</b></td>
+    <td align="left" valign="middle"><b>🔧 Dev Tools</b></td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,vscode&theme=dark" alt="Dev Tools">
     </td>
