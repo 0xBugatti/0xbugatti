@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=250&section=header&text=@0xbugatti&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Consultant&descAlignY=60&descAlign=50" alt="header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=300&section=header&text=%F0%9F%90%9B%20%400xBugatti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Offensive%20Security%20Consultant%20%7C%20Bug%20Bounty%20Hunter&descAlignY=52&descAlign=50&descSize=18" alt="header" width="100%">
 </div>
 
 
@@ -96,8 +96,26 @@
 
 ---
 
+---
+
+<div align="center">
+
 ## 🌐 Connect
 
- [![blog](https://img.shields.io/badge/Blog-0f3460?style=for-the-badge&logo=medium&logoColor=white)](https://0xbugatti.io)[![medium](https://img.shields.io/badge/Medium-533483?style=for-the-badge&logo=medium&logoColor=white) ](https://medium.com/@0xbugatti)[![x](https://img.shields.io/badge/X-0f3460?style=for-the-badge&logo=x&logoColor=white) ](https://twitter.com/0xBugatti)[![linkedin](https://img.shields.io/badge/LinkedIn-533483?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasr-ab5619216)
+<a href="https://0xbugatti.io"><img src="https://img.shields.io/badge/%200xbugatti.io-0d1117?style=for-the-badge&logo=globe&logoColor=58a6ff&labelColor=0d1117&color=0d1117&borderRadius=10" alt="Blog"></a>
+<a href="https://github.com/0xBugatti"><img src="https://img.shields.io/badge/%400xBugatti-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117&color=0d1117" alt="GitHub"></a>
+<a href="https://twitter.com/0xBugatti"><img src="https://img.shields.io/badge/%400xBugatti-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff&labelColor=0d1117&color=0d1117" alt="X"></a>
+<a href="https://medium.com/@0xbugatti"><img src="https://img.shields.io/badge/%400xbugatti-0d1117?style=for-the-badge&logo=medium&logoColor=58a6ff&labelColor=0d1117&color=0d1117" alt="Medium"></a>
+<a href="https://www.linkedin.com/in/mohamed-nasr-ab5619216"><img src="https://img.shields.io/badge/Mohamed%20Nasr-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=0d1117" alt="LinkedIn"></a>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient:0f3460,16213e,1a1a2e&height=80&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=gradient:0f3460,16213e,1a1a2e&height=80&section=footer)
+<br>
+
+> *"The quieter you become, the more you are able to hear."*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=0xBugatti&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0f3460,16213e,1a1a2e&height=100&section=footer" width="100%">
