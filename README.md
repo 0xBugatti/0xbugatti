@@ -1,16 +1,38 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=200&section=header&text=0xbugatti&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20|%20Tool%20Builder&descAlignY=60&descAlign=50)](https://github.com/0xBugatti)
 
-<table width="100%">
+<table>
   <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/👁️_VIEWS-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" alt="Views"><br>
-      <img src="https://komarev.com/ghpvc/?username=0xBugatti&color=ffffff&style=flat-square&label=" alt="View Count">
-      <br><br>
-      <img src="https://img.shields.io/badge/👥_FOLLOWERS-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" alt="Followers"><br>
-      <img src="https://img.shields.io/github/followers/0xBugatti?style=flat-square&labelColor=000000&color=ffffff" alt="Follower Count">
+    <td valign="middle">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/VIEWS-ffffff?style=for-the-badge&logo=eye&logoColor=black&labelColor=000000&color=000000" alt="Views">
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://komarev.com/ghpvc/?username=0xBugatti&color=000000&style=for-the-badge&labelColor=000000" alt="View Count">
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img height="15" src="https://img.shields.io/badge/transparent-000000?style=flat-square&labelColor=000000&color=000000" alt="spacer">
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/FOLLOWERS-ffffff?style=for-the-badge&logo=users&logoColor=black&labelColor=000000&color=000000" alt="Followers">
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/github/followers/0xBugatti?style=for-the-badge&labelColor=000000&color=000000&logoColor=white" alt="Follower Count">
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="75%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xBugatti&theme=github_dark" width="100%" alt="Profile Stats">
+    <td valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xBugatti&theme=github_dark" alt="Profile Stats">
     </td>
   </tr>
 </table>
