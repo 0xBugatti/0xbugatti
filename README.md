@@ -45,7 +45,7 @@
       <img src="https://raw.githubusercontent.com/gchq/CyberChef/master/src/web/static/images/logo/cyberchef.svg" width="28" alt="CyberChef">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/virustotal/394EFF" width="28" alt="VirusTotal">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon64.png" width="28" alt="Ghidra">&nbsp;&nbsp;
-      <img src="https://hex-rays.com/hubfs/Ico-logo.png" width="28" alt="IDA Pro">&nbsp;&nbsp;
+      <img src="assets/idapro.png" width="28" alt="IDA Pro">&nbsp;&nbsp;
       <img src="https://frida.re/favicon.ico" width="28" alt="Frida">
     </td>
   </tr>
@@ -76,7 +76,7 @@
   <tr>
     <td align="left" valign="middle"><b>Exploitation & C2</b></td>
     <td valign="middle">
-      <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/assets/images/metasploit-logo-dark-external-use.svg" width="28" alt="Metasploit">&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/metasploit.png" width="28" alt="Metasploit">&nbsp;&nbsp;
       <img src="assets/cobalt-strike.png" width="40" alt="Cobalt Strike">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/HavocFramework/Havoc/main/client/data/img/HavocImages/Icon.ico" width="28" alt="Havoc">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/cobbr/Covenant/master/Covenant/wwwroot/images/favicon.svg" width="28" alt="Covenant">&nbsp;&nbsp;
