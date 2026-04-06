@@ -12,7 +12,7 @@
     <td valign="middle" align="center" width="20%">
       <div align="center">
         <a href="https://github.com/0xBugatti">
-          <img src="https://raw.githubusercontent.com/0xBugatti/0xbugatti/main/views.svg" alt="Views" width="120">
+          <img src="https://komarev.com/ghpvc/?username=0xBugatti&style=for-the-badge&color=0d1117&label=VIEWS&labelColor=533483" alt="Views">
         </a>
         <br><br>
         <a href="https://github.com/0xBugatti?tab=followers">
@@ -230,8 +230,6 @@
 > *"The quieter you become, the more you are able to hear."*
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=0xBugatti&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
