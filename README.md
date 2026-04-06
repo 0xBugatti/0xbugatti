@@ -5,6 +5,111 @@
 
 <br><br><br>
 
+## 🎯 Focus Areas
+
+<table width="100%" cellspacing="4" cellpadding="8">
+  <tr>
+    <td align="right" valign="middle" width="180"><b>🛡️ EDR & Defense</b></td>
+    <td valign="middle">
+      <img src="assets/crowdstrike.png" width="28" alt="CrowdStrike">&nbsp;&nbsp;
+      <img src="assets/s1.png" width="28" alt="SentinelOne">&nbsp;&nbsp;
+      <img src="assets/cortex.png" width="28" alt="Cortex XDR">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/paloaltonetworks/FF0000" width="28" alt="Palo Alto">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/vmware/607078" width="28" alt="Carbon Black">&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/windows-defender.png" width="28" alt="Microsoft Defender">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/trendmicro/D90909" width="28" alt="Trend Micro">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/cisco/049FD9" width="28" alt="Cisco">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/symantec/FFD100" width="28" alt="Symantec">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/mcafee/C0183C" width="28" alt="McAfee">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/kaspersky/006D5C" width="28" alt="Kaspersky">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>📡 SIEM & Monitoring</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/splunk/65A6BF" width="28" alt="Splunk">&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="28" alt="Elastic">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="28" alt="Fortinet">&nbsp;&nbsp;
+      <img src="assets/logrhythm-logo.png" width="28" alt="LogRhythm">&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/ibm.png" width="28" alt="IBM QRadar">&nbsp;&nbsp;
+      <img src="assets/sentinel.jpeg" width="28" alt="Azure Sentinel">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🔬 Reverse Engineering</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="28" alt="Wireshark">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/radareorg/radare2/master/doc/images/rlogo256.png" width="28" alt="Radare2">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/icon.svg" width="28" alt="ImHex">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/VirusTotal/yara/master/extra/logo.svg" width="28" alt="YARA">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/gchq/CyberChef/master/src/web/static/images/logo/cyberchef.svg" width="28" alt="CyberChef">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/virustotal/394EFF" width="28" alt="VirusTotal">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon64.png" width="28" alt="Ghidra">&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-IDA_Pro-800000?style=flat&logo=hexrays&logoColor=white" height="24" alt="IDA Pro">&nbsp;&nbsp;
+      <img src="https://frida.re/favicon.ico" width="28" alt="Frida">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🔍 Recon & Enumeration</b></td>
+    <td valign="middle">
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="28" alt="Nmap">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/dev/static/nuclei-logo.png" width="28" alt="Nuclei">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/dev/static/subfinder-logo.png" width="28" alt="Subfinder">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/projectdiscovery/httpx/dev/static/httpx-logo.png" width="28" alt="HTTPX">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/projectdiscovery/naabu/main/static/naabu-logo.png" width="28" alt="Naabu">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/projectdiscovery/dnsx/main/static/dnsx-logo.png" width="28" alt="DNSX">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🌐 Web Exploitation</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="28" alt="Burp Suite">&nbsp;&nbsp;
+      <img src="https://www.sqlmap.org/favicon.ico" width="28" alt="SQLMap">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/go/00ADD8" width="28" alt="Gobuster">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/go/00ADD8" width="28" alt="ffuf">&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/web.png" width="28" alt="Wfuzz">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/owasp/000000" width="28" alt="OWASP">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>⚔️ Exploitation & C2</b></td>
+    <td valign="middle">
+      <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/assets/images/metasploit-logo-dark-external-use.svg" width="28" alt="Metasploit">&nbsp;&nbsp;
+      <img src="assets/cobalt-strike.png" width="40" alt="Cobalt Strike">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/HavocFramework/Havoc/main/client/data/img/HavocImages/Icon.ico" width="28" alt="Havoc">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/cobbr/Covenant/master/Covenant/wwwroot/images/favicon.svg" width="28" alt="Covenant">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🔓 Post-Exploitation</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/hashcat/FF4700" width="28" alt="Hashcat">&nbsp;&nbsp;
+      <img src="https://www.openwall.com/favicon.ico" width="28" alt="John the Ripper">&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/hydra.png" width="28" alt="Hydra">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/Hackplayers/evil-winrm/master/resources/evil-winrm_logo.png" width="28" alt="Evil-WinRM">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>💻 Platforms</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="28" alt="Kali Linux">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/parrotsecurity/15EDFF" width="28" alt="Parrot OS">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🐍 Languages</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=python,bash,go,js,nodejs,php,c,cpp,cs,java,ps,powershell&theme=dark" alt="Languages">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🔧 Dev Tools</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,vscode&theme=dark" alt="Dev Tools">
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
 <table>
@@ -70,128 +175,6 @@
   </tr>
 </table>
 </div>
-
----
-
-## 🛡️ Security Arsenal
-
-<details>
-<summary><b>EDR & Defense</b></summary>
-<br>
-<div align="center">
-
-<img src="assets/crowdstrike.png" width="32" alt="CrowdStrike">&nbsp;&nbsp;&nbsp;
-<img src="assets/s1.png" width="32" alt="SentinelOne">&nbsp;&nbsp;&nbsp;
-<img src="assets/cortex.png" width="32" alt="Cortex XDR">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/paloaltonetworks/FF0000" width="32" alt="Palo Alto">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vmware/607078" width="32" alt="Carbon Black">&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/windows-defender.png" width="32" alt="Microsoft Defender">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/trendmicro/D90909" width="32" alt="Trend Micro">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cisco/049FD9" width="32" alt="Cisco">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/symantec/FFD100" width="32" alt="Symantec">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mcafee/C0183C" width="32" alt="McAfee">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kaspersky/006D5C" width="32" alt="Kaspersky">
-
-</div>
-</details>
-
-<details>
-<summary><b>SIEM & Monitoring</b></summary>
-<br>
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/splunk/65A6BF" width="32" alt="Splunk">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32" alt="Elastic">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fortinet/EE3124" width="32" alt="Fortinet">&nbsp;&nbsp;&nbsp;
-<img src="assets/logrhythm-logo.png" width="32" alt="LogRhythm">&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/ibm.png" width="32" alt="IBM QRadar">&nbsp;&nbsp;&nbsp;
-<img src="assets/sentinel.jpeg" width="32" alt="Azure Sentinel">
-
-</div>
-</details>
-
-<details>
-<summary><b>Reverse Engineering</b></summary>
-<br>
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="32" alt="Wireshark">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/radareorg/radare2/master/doc/images/rlogo256.png" width="32" alt="Radare2">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/icon.svg" width="32" alt="ImHex">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/VirusTotal/yara/master/extra/logo.svg" width="32" alt="YARA">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/gchq/CyberChef/master/src/web/static/images/logo/cyberchef.svg" width="32" alt="CyberChef">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/virustotal/394EFF" width="32" alt="VirusTotal">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon64.png" width="32" alt="Ghidra">&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-IDA_Pro-800000?style=flat&logo=hexrays&logoColor=white" height="28" alt="IDA Pro">&nbsp;&nbsp;&nbsp;
-<img src="https://frida.re/favicon.ico" width="32" alt="Frida">
-
-</div>
-</details>
-
-<details>
-<summary><b>Offensive Tooling</b></summary>
-<br>
-
-**Recon & Enumeration**
-<div align="center">
-
-<img src="https://nmap.org/images/nmap-logo-256x256.png" width="32" alt="Nmap">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/dev/static/nuclei-logo.png" width="32" alt="Nuclei">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/dev/static/subfinder-logo.png" width="32" alt="Subfinder">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/projectdiscovery/httpx/dev/static/httpx-logo.png" width="32" alt="HTTPX">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/projectdiscovery/naabu/main/static/naabu-logo.png" width="32" alt="Naabu">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/projectdiscovery/dnsx/main/static/dnsx-logo.png" width="32" alt="DNSX">
-
-</div>
-
-**Web Exploitation**
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="32" alt="Burp Suite">&nbsp;&nbsp;&nbsp;
-<img src="https://www.sqlmap.org/favicon.ico" width="32" alt="SQLMap">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/go/00ADD8" width="32" alt="Gobuster">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/go/00ADD8" width="32" alt="ffuf">&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/web.png" width="32" alt="Wfuzz">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/owasp/000000" width="32" alt="OWASP">
-
-</div>
-
-**Exploitation & C2**
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/assets/images/metasploit-logo-dark-external-use.svg" width="32" alt="Metasploit">&nbsp;&nbsp;&nbsp;
-<img src="assets/cobalt-strike.png" width="48" alt="Cobalt Strike">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/HavocFramework/Havoc/main/client/data/img/HavocImages/Icon.ico" width="32" alt="Havoc">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/cobbr/Covenant/master/Covenant/wwwroot/images/favicon.svg" width="32" alt="Covenant">
-
-</div>
-
-**Post-Exploitation & Credential Attacks**
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/hashcat/FF4700" width="32" alt="Hashcat">&nbsp;&nbsp;&nbsp;
-<img src="https://www.openwall.com/favicon.ico" width="32" alt="John the Ripper">&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/hydra.png" width="32" alt="Hydra">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Hackplayers/evil-winrm/master/resources/evil-winrm_logo.png" width="32" alt="Evil-WinRM">
-
-</div>
-
-**Platforms**
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="32" alt="Kali Linux">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/parrotsecurity/15EDFF" width="32" alt="Parrot OS">
-
-</div>
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-[![languages](https://skillicons.dev/icons?i=python,bash,go,js,nodejs,php,c,cpp,cs,java,ps,powershell&theme=dark)](https://skillicons.dev/icons?i=python,bash,go,js,nodejs,php,c,cpp,cs,java,ps,powershell&theme=dark)
-
-[![tools](https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,vscode&theme=dark)](https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,vscode&theme=dark)
 
 ---
 
