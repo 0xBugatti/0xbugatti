@@ -1,5 +1,7 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient:1a1a2e,16213e,0f3460&height=200&section=header&text=0xbugatti&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20|%20Tool%20Builder&descAlignY=60&descAlign=50)](https://github.com/0xBugatti)
 
+<div align="center">
+
 <table>
   <tr>
     <td valign="middle" align="center" width="20%">
@@ -18,6 +20,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBugatti&layout=compact&theme=dark&hide_border=true&title_color=533483&text_color=ffffff&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBugatti&layout=compact&theme=dark&hide_border=true&title_color=533483&text_color=ffffff&langs_count=8)
 
